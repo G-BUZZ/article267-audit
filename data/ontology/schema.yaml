@@ -1,0 +1,45 @@
+version: "0.1"
+
+eu_question_statuses:
+  - NO_EU_QUESTION
+  - EU_QUESTION
+
+non_referral_grounds:
+  - NEC
+  - ECL
+  - CLR
+
+analysis_levels:
+  - NONE
+  - MINIMAL
+  - MODERATE
+  - EXTENSIVE
+
+reasoning_levels:
+  - NONE
+  - IMPLICIT
+  - EXPLICIT
+
+procedural_forms:
+  - SUMMARY
+  - FULL
+
+reasoning_sequences:
+  - SUBSTANCE_FIRST
+  - 267_FIRST
+  - INTEGRATED
+
+eu_court_dialogue:
+  - NONE
+  - CITATIONAL
+  - ANALYTICAL
+  - REFERRAL
+
+temporal_relations:
+  - PRE_REMLING
+  - SAME_DAY
+  - POST_REMLING
+
+outcomes:
+  - NO_REFERRAL
+  - REFERRAL

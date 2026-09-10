@@ -1,0 +1,67 @@
+case_id: NL-2934
+court: Raad van State
+country: Netherlands
+decision_date: 2026-05-22
+ecli: ECLI:NL:RVS:2026:2934
+
+issues:
+  - issue_id: NL-2934-A
+
+    eu_question: >
+      Questions concerning Article 5 of the Long-Term Residents Directive
+      and Article 15 of the Family Reunification Directive.
+
+    eu_provision: >
+      Article 5 Long-Term Residents Directive;
+      Article 15 Family Reunification Directive
+
+    relevance: >
+      The questions were raised by the appellants but were not necessary
+      for resolving the case.
+
+    ground_raw: >
+      Beantwoording van de door appellanten opgeworpen vragen is niet nodig
+      voor de oplossing van deze zaak.
+
+    eu_question_status: EU_QUESTION
+
+
+    non_referral_ground: NEC
+    substantive_eu_analysis: NONE
+
+    substantive_cjeu_authorities: []
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Cilfit"
+        paragraph: "10"
+      - name: "Consorzio Italian Management"
+        paragraph: "34"
+      - name: "Remling"
+        paragraph: "35"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: 267_FIRST
+
+    eu_court_dialogue: ANALYTICAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-2934
+      paragraph: "§1.1"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      The court expressly states that answering the EU-law questions is not
+      necessary for resolving the case and therefore classifies the
+      non-referral as the CILFIT necessity exception.

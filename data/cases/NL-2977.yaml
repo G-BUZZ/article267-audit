@@ -1,0 +1,134 @@
+case_id: NL-2977
+court: Raad van State
+country: Netherlands
+decision_date: 2026-05-28
+ecli: ECLI:NL:RVS:2026:2977
+
+issues:
+  - issue_id: NL-2977-A
+
+    eu_question: >
+      Whether questions concerning different language versions of a provision
+      of EU law and the alleged violation of the principles of legitimate
+      expectations and legal certainty require a preliminary reference.
+
+    eu_provision: null
+
+    relevance: >
+      The questions can be answered on the basis of existing Court of Justice
+      and Raad van State case-law.
+
+    ground_raw: >
+      Uit de onder 1 genoemde rechtspraak volgt dat de opgeworpen vragen
+      kunnen worden beantwoord aan de hand van de rechtspraak van het Hof.
+
+    eu_question_status: EU_QUESTION
+
+
+    non_referral_ground: ECL
+    substantive_eu_analysis: MINIMAL
+
+    substantive_cjeu_authorities:
+      - name: "Institute of the Motor Industry"
+        paragraph: "16"
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Cilfit"
+        paragraph: "13-14"
+      - name: "Consorzio Italian Management"
+        paragraph: "36"
+      - name: "Remling"
+        paragraph: "36"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: SUBSTANCE_FIRST
+
+    eu_court_dialogue: ANALYTICAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-2977
+      paragraph: "§1.1"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      The first and second grievances concern questions for which the
+      decision identifies existing case-law as sufficient. The Article 267
+      reasoning expressly invokes Cilfit, Consorzio Italian Management and
+      Remling. The classification is ECL rather than CLR because the court
+      expressly relies on existing CJEU case-law as the basis for answering
+      the questions.
+
+  - issue_id: NL-2977-B
+
+    eu_question: >
+      Whether the applicable EU-law provision required the national
+      authorities to refer the matter concerning the implementation of the
+      Temporary Protection Directive to the Council under Article 28(5) TEU,
+      or whether Article 78(3) TFEU applied.
+
+    eu_provision: "Article 28(5) TEU; Article 78(3) TFEU"
+
+    relevance: >
+      The question was addressed by the court because the appellant disputed
+      the legal basis used by the lower court.
+
+    ground_raw: >
+      Uit het voorgaande volgt dat redelijkerwijs geen twijfel kan bestaan
+      over het antwoord op de opgeworpen vraag.
+
+    eu_question_status: EU_QUESTION
+
+
+    non_referral_ground: CLR
+    substantive_eu_analysis: MODERATE
+
+    substantive_cjeu_authorities: []
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Cilfit"
+        paragraph: "16"
+      - name: "Consorzio Italian Management"
+        paragraph: "39-40"
+      - name: "Remling"
+        paragraph: "37"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: SUBSTANCE_FIRST
+
+    eu_court_dialogue: ANALYTICAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-2977
+      paragraph: "§2.1"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      The court first explains why Article 78(3) TFEU is directed to the
+      European Commission and does not impose obligations on the Member
+      States, then concludes that there can reasonably be no doubt about
+      the answer. The Article 267 reasoning expressly invokes the
+      acte-clair line of Cilfit, Consorzio Italian Management and Remling.

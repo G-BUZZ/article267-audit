@@ -1,0 +1,38 @@
+version: "0.1"
+
+sources:
+  - source_id: SRC-NL-2934
+    source_type: PRIMARY
+    country: Netherlands
+    court: Raad van State
+    ecli: ECLI:NL:RVS:2026:2934
+    decision_date: 2026-05-22
+    official_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3ARVS%3A2026%3A2934"
+    retrieved: 2026-09-05
+
+  - source_id: SRC-NL-2977
+    source_type: PRIMARY
+    country: Netherlands
+    court: Raad van State
+    ecli: ECLI:NL:RVS:2026:2977
+    decision_date: 2026-05-28
+    official_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3ARVS%3A2026%3A2977"
+    retrieved: 2026-09-05
+
+  - source_id: SRC-NL-3137
+    source_type: PRIMARY
+    country: Netherlands
+    court: Raad van State
+    ecli: ECLI:NL:RVS:2026:3137
+    decision_date: 2026-06-04
+    official_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3ARVS%3A2026%3A3137"
+    retrieved: 2026-09-05
+
+  - source_id: SRC-NL-4092
+    source_type: PRIMARY
+    country: Netherlands
+    court: Raad van State
+    ecli: ECLI:NL:RVS:2026:4092
+    decision_date: 2026-07-16
+    official_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI%3ANL%3ARVS%3A2026%3A4092"
+    retrieved: 2026-09-05

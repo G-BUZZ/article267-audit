@@ -1,0 +1,79 @@
+case_id: NL-4092
+court: Raad van State
+country: Netherlands
+decision_date: 2026-07-16
+ecli: ECLI:NL:RVS:2026:4092
+
+issues:
+  - issue_id: NL-4092-A
+
+    eu_question: >
+      Whether a period of detention under Article 59b of the Dutch
+      Aliens Act 2000 must be counted when calculating the maximum
+      detention period under Article 59(5) and (6) of the same Act.
+
+    eu_provision: >
+      Article 15 Return Directive;
+      Article 59b Vw 2000;
+      Article 59(5) and (6) Vw 2000
+
+    relevance: >
+      The question concerns the calculation of the maximum period of
+      immigration detention and was relevant to the lawfulness of the
+      detention.
+
+    ground_raw: >
+      Uit het voorgaande volgt dat de opgeworpen vraag kan worden
+      beantwoord aan de hand van de rechtspraak van het Hof.
+
+    eu_question_status: EU_QUESTION
+
+
+    non_referral_ground: ECL
+    substantive_eu_analysis: MODERATE
+
+    substantive_cjeu_authorities:
+      - name: "Aroja"
+        paragraph: "73"
+      - name: "Kadzoev"
+        paragraph: "40-48"
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Cilfit"
+        paragraph: "13-14"
+      - name: "Consorzio Italian Management"
+        paragraph: "36"
+      - name: "Remling"
+        paragraph: "36"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: SUBSTANCE_FIRST
+
+    eu_court_dialogue: ANALYTICAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-4092
+      paragraph: "§1.1"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      In §1 the court resolves the substantive EU-law question by
+      distinguishing Aroja, point 73, which concerns detention under
+      Article 15 of the Return Directive for the execution of a return
+      decision, from detention under Article 59b Vw 2000, and by finding
+      confirmation in Kadzoev, points 40-48. In §1.1 the court states that
+      the question can be answered on the basis of CJEU case-law and,
+      referring to Cilfit, Consorzio Italian Management and Remling,
+      declines to make a preliminary reference.

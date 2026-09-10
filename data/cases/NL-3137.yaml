@@ -1,0 +1,194 @@
+case_id: NL-3137
+court: Raad van State
+country: Netherlands
+decision_date: 2026-06-04
+ecli: ECLI:NL:RVS:2026:3137
+
+issues:
+  - issue_id: NL-3137-A
+
+    eu_question: >
+      Whether the question concerning the manner in which the minister
+      must substantiate the serious grounds underlying immigration
+      detention can be answered on the basis of existing EU-law
+      jurisprudence.
+
+    eu_provision: null
+
+    relevance: >
+      The question concerns the interpretation and application of EU law
+      relevant to the detention decision.
+
+    ground_raw: >
+      Uit deze uitspraken volgt dat de opgeworpen vraag kan worden
+      beantwoord aan de hand van de rechtspraak van het Hof van Justitie.
+
+    eu_question_status: EU_QUESTION
+
+
+    non_referral_ground: ECL
+    substantive_eu_analysis: MINIMAL
+
+    substantive_cjeu_authorities:
+      - name: "Cilfit"
+        paragraph: "13-14"
+      - name: "Consorzio Italian Management"
+        paragraph: "36"
+      - name: "Remling"
+        paragraph: "36"
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Cilfit"
+        paragraph: "13-14"
+      - name: "Consorzio Italian Management"
+        paragraph: "36"
+      - name: "Remling"
+        paragraph: "36"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: SUBSTANCE_FIRST
+
+    eu_court_dialogue: ANALYTICAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-3137
+      paragraph: "§1.1"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      The court states that the question can be answered on the basis of
+      existing CJEU case-law and therefore finds no reason to make a
+      preliminary reference. The decision expressly cites Cilfit,
+      Consorzio Italian Management and Remling.
+
+  - issue_id: NL-3137-B
+
+    eu_question: >
+      Whether the first and fourth grounds of appeal raise a question
+      concerning the interpretation or validity of a provision of
+      European Union law.
+
+    eu_provision: null
+
+    relevance: >
+      No Article 267 EU-law question arises because the first and fourth
+      grounds do not concern the interpretation or validity of EU law.
+
+    ground_raw: >
+      In de eerste en vierde grief zijn geen vragen aan de orde over de
+      uitleg of de geldigheid van een bepaling van Unierecht.
+
+    eu_question_status: NO_EU_QUESTION
+
+
+    non_referral_ground: null
+    substantive_eu_analysis: NONE
+
+    substantive_cjeu_authorities:
+      - name: "Remling"
+        paragraph: "24; 31"
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Remling"
+        paragraph: "24; 31"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: 267_FIRST
+
+    eu_court_dialogue: CITATIONAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-3137
+      paragraph: "§2.1"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      The court expressly states that the first and fourth grounds contain
+      no questions concerning the interpretation or validity of EU law.
+      This is therefore not classified as NEC, ECL or CLR: the threshold
+      EU-law question required for Article 267 does not arise.
+
+  - issue_id: NL-3137-C
+
+    eu_question: >
+      Whether the question concerning the sending of an application for
+      a laissez-passer is relevant to the lawfulness of the detention.
+
+    eu_provision: null
+
+    relevance: >
+      The question does not affect the lawfulness of the detention and
+      therefore its answer is not necessary for resolving the case.
+
+    ground_raw: >
+      De beantwoording daarvan is dus niet nodig voor de oplossing van
+      deze zaak.
+
+    eu_question_status: EU_QUESTION
+
+
+    non_referral_ground: NEC
+    substantive_eu_analysis: NONE
+
+    substantive_cjeu_authorities: []
+
+    article_267_reasoning: EXPLICIT
+
+    article_267_authorities:
+      - name: "Cilfit"
+        paragraph: "10"
+      - name: "Consorzio Italian Management"
+        paragraph: "34"
+      - name: "Remling"
+        paragraph: "35"
+
+    procedural_form: SUMMARY
+
+    reasoning_sequence: SUBSTANCE_FIRST
+
+    eu_court_dialogue: ANALYTICAL
+
+    remling:
+      temporal_relation: POST_REMLING
+      reference: true
+      analytical_use: true
+
+    outcome: NO_REFERRAL
+
+    provenance:
+      source_id: SRC-NL-3137
+      paragraph: "§2.2"
+      accessed: 2026-09-05
+
+    confidence: HIGH
+
+    analyst_note: >
+      The court expressly applies the necessity criterion: because the
+      answer does not affect the lawfulness of detention, answering the
+      question is not necessary for resolving the case. The court then
+      cites Cilfit, Consorzio Italian Management and Remling and declines
+      to make a preliminary reference.
