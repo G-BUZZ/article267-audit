@@ -29,6 +29,10 @@ Secondary sources may be used for discovery and contextualisation, but
 the legal proposition recorded in the dataset should be supported by a
 primary source whenever one is available.
 
+## Reproducibility
+
+Install development dependencies with `python -m pip install -e ".[dev]"`. Run `pytest -q` for the test suite and `ruff check .` for linting. GitHub Actions runs both checks automatically on pushes and pull requests.
+
 ## Status
 
-Research prototype — corpus and coding schema under audit.
+Version 0.1.0 — methodological prototype with a four-case pilot corpus. The pilot corpus demonstrates the coding framework and validation architecture; it is not presented as a statistically representative dataset.
